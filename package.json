@@ -25,14 +25,14 @@
 		"test": "xo && ava && tsd"
 	},
 	"files": [
-		"index.js",
+		"index.ts",
 		"index.d.ts",
-		"browser.js",
+		"browser.ts",
 		"browser.d.ts",
-		"core.js",
+		"core.ts",
 		"core.d.ts",
-		"supported.js",
-		"util.js"
+		"supported.ts",
+		"util.ts"
 	],
 	"keywords": [
 		"mime",
