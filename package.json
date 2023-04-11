@@ -32,7 +32,8 @@
 		"core.ts",
 		"core.d.ts",
 		"supported.ts",
-		"util.ts"
+		"util.ts",
+		"tsconfig.json"
 	],
 	"keywords": [
 		"mime",
